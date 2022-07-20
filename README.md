@@ -16,7 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![](./images/output.png)
 
 ### Links
-- Live Site URL: [https://aaronhash.github.io/FMQRCode/](https://aaronhash.github.io/FMQRCode/)
+- Live Site URL: [https://aaronhash.github.io/aaronhash-FMQRCode/](https://aaronhash.github.io/aaronhash-FMQRCode/)
 
 ## Notes
 
